@@ -1,0 +1,12 @@
+com.example.crud.app-core-1.6.0-0 C:\Users\dilar\.gradle\caches\transforms-3\48012f7b8c4234b33c7558e0f466ee8f\transformed\core-1.6.0\res
+com.example.crud.app-jetified-annotation-experimental-1.1.0-1 C:\Users\dilar\.gradle\caches\transforms-3\675d4f8b82be03b66a2499ef69f77467\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.crud.app-jetified-window-1.0.0-beta04-2 C:\Users\dilar\.gradle\caches\transforms-3\b80677c91f94664183fd6ffc76219b18\transformed\jetified-window-1.0.0-beta04\res
+com.example.crud.app-jetified-window-java-1.0.0-beta04-3 C:\Users\dilar\.gradle\caches\transforms-3\d700e38361e6d99fd41a4e4815c44d9e\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.crud.app-debug-4 C:\Users\dilar\StudioProjects\crud\android\app\src\debug\res
+com.example.crud.app-main-5 C:\Users\dilar\StudioProjects\crud\android\app\src\main\res
+com.example.crud.app-pngs-6 C:\Users\dilar\StudioProjects\crud\build\app\generated\res\pngs\debug
+com.example.crud.app-resValues-7 C:\Users\dilar\StudioProjects\crud\build\app\generated\res\resValues\debug
+com.example.crud.app-rs-8 C:\Users\dilar\StudioProjects\crud\build\app\generated\res\rs\debug
+com.example.crud.app-mergeDebugResources-9 C:\Users\dilar\StudioProjects\crud\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.crud.app-mergeDebugResources-10 C:\Users\dilar\StudioProjects\crud\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.crud.app-merged_res-11 C:\Users\dilar\StudioProjects\crud\build\app\intermediates\merged_res\debug
